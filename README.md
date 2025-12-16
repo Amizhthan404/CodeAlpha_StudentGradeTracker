@@ -99,3 +99,10 @@ If you like this project or want to support my learning journey:
 - ⭐ Star this repository  
 - 🔗 Connect with me on LinkedIn  
 - 💬 Share feedback or suggestions  
+
+
+
+## 👤 Author
+
+## Amizhthan A
+Early-Stage Software Engineer | Java Developer | Tech Explorer
